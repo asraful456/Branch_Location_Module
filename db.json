@@ -1,0 +1,88 @@
+{
+  "branches": [
+    {
+      "id": "1",
+      "name": "Thakurgaon",
+      "division": "Rangpur Division",
+      "address": "Chourasta, Nurjahan Plaza, College Rd, Thakurgaon",
+      "phone": "01322912932",
+      "email": "",
+      "mapEmbed": "",
+      "coordinators": [
+        { "name": "MD. Zunait Ali", "role": "Co-Ordinator", "phone": "01322912932" }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Parulia",
+      "division": "Khulna Division",
+      "address": "Sayera Enayetullah (S, E) Mansion, 3rd floor, Parulia Bus stand, Debhata, Satkhira",
+      "phone": "01303437709",
+      "email": "",
+      "mapEmbed": "",
+      "coordinators": [
+        { "name": "Md. Omar Faruqe Rajeb", "role": "Co-ordinator", "phone": "01303437709" }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Shariatpur Sadar",
+      "division": "Dhaka Division",
+      "address": "S.B. Tower (Royal King Hotel) Court Area, Shariatpur Sadar, Shariatpur",
+      "phone": "01960214800",
+      "email": "",
+      "mapEmbed": "",
+      "coordinators": [
+        { "name": "Sabuj Mia", "role": "Co-ordinator", "phone": "01958063316" }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Faridpur",
+      "division": "Dhaka Division",
+      "address": "Police Welfare Market, (3rd Floor), Alhaj Badiyar Rahman Mola Road, Jhiltuli, Faridpur",
+      "phone": "01318694787",
+      "email": "faridpur.elel@gmail.com",
+      "mapEmbed": "",
+      "coordinators": [
+        { "name": "Md. Sohan", "role": "Co-ordinator", "phone": "01318694787" }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Narayanganj",
+      "division": "Dhaka Division",
+      "address": "Momtaz Plaza (4th Floor), Dhaka-Narayanganj Link Road, South Sastapur, Fatullah, Narayanganj",
+      "phone": "01332852560",
+      "email": "narayanganj.elel@gmail.com",
+      "mapEmbed": "",
+      "coordinators": [
+        { "name": "Coordinator Name", "role": "Co-ordinator", "phone": "01332852561" }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Manikganj",
+      "division": "Dhaka Division",
+      "address": "Manikganj Sadar, Manikganj",
+      "phone": "01700000000",
+      "email": "",
+      "mapEmbed": "",
+      "coordinators": [
+        { "name": "Coordinator Name", "role": "Co-ordinator", "phone": "01700000000" }
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Narsingdi",
+      "division": "Dhaka Division",
+      "address": "Narsingdi Sadar, Narsingdi",
+      "phone": "01700000001",
+      "email": "",
+      "mapEmbed": "",
+      "coordinators": [
+        { "name": "Coordinator Name", "role": "Co-ordinator", "phone": "01700000001" }
+      ]
+    }
+  ]
+}
